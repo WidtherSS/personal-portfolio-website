@@ -1,11 +1,11 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/Product-management.png'
+import IMG2 from '../../assets/twitter.png'
+import IMG3 from '../../assets/cph-uni.png'
+import IMG4 from '../../assets/youtube.png'
+import IMG5 from '../../assets/moon.png'
+import IMG6 from '../../assets/moon.png'
 
 
 const data= [
@@ -13,44 +13,45 @@ const data= [
     id:1,
     image: IMG1,
     title:'Crybto Currency Dashboard & financial visualization',
-    github: 'https://github.com',
+    github: 'https://github.com/WidtherSS/Youtube-Project',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id:2,
     image: IMG2,
     title:'Crybto Currency Dashboard & financial visualization',
-    github: 'https://github.com',
+    github: 'https://github.com/WidtherSS/Product-Management',
     demo:'https://dribbble.com/shots/16580766-origin-UI-kit-charts-templates-infographics-in-Figma'
   },
   {
     id:3,
     image: IMG3,
-    title:'Crybto Currency Dashboard & financial visualization',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
+    title:'Denmark universities',
+    github: 'https://github.com/WidtherSS/Universities',
+    demo:'file:///Users/adamchatila/Desktop/cph-uni/index.html'
   },
   {
     id:4,
     image: IMG4,
     title:'Crybto Currency Dashboard & financial visualization',
-    github: 'https://github.com',
+    github: 'https://github.com/WidtherSS/HiFiCorner',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id:5,
     image: IMG5,
     title:'Crybto Currency Dashboard & financial visualization',
-    github: 'https://github.com',
+    github: 'https://github.com/WidtherSS/HiFiCorner',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
-  }, 
+  },
   {
     id:6,
     image: IMG6,
     title:'Crybto Currency Dashboard & financial visualization',
-    github: 'https://github.com',
+    github: 'https://github.com/WidtherSS/HiFiCorner',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
+
 ]
 
 const Portfolio = () => {
