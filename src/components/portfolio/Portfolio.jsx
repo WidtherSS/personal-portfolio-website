@@ -11,29 +11,29 @@ import IMG6 from '../../assets/moon.png'
 const data= [
   {
     id:1,
-    image: IMG1,
-    title:'Crybto Currency Dashboard & financial visualization',
+    image: IMG4,
+    title:'Youtube HomePage',
     github: 'https://github.com/WidtherSS/Youtube-Project',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id:2,
-    image: IMG2,
-    title:'Crybto Currency Dashboard & financial visualization',
+    image: IMG1,
+    title:'Product Management',
     github: 'https://github.com/WidtherSS/Product-Management',
     demo:'https://dribbble.com/shots/16580766-origin-UI-kit-charts-templates-infographics-in-Figma'
   },
   {
     id:3,
     image: IMG3,
-    title:'Denmark universities',
+    title:'universities',
     github: 'https://github.com/WidtherSS/Universities',
     demo:'file:///Users/adamchatila/Desktop/cph-uni/index.html'
   },
   {
     id:4,
     image: IMG4,
-    title:'Crybto Currency Dashboard & financial visualization',
+    title:'',
     github: 'https://github.com/WidtherSS/HiFiCorner',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
@@ -48,7 +48,7 @@ const data= [
     id:6,
     image: IMG6,
     title:'Crybto Currency Dashboard & financial visualization',
-    github: 'https://github.com/WidtherSS/HiFiCorner',
+    github: 'https://github.com/WidtherSS/The-Moon-',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
 
