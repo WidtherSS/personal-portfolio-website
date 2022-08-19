@@ -32,8 +32,8 @@ const data= [
   },
   {
     id:4,
-    image: IMG4,
-    title:'',
+    image: IMG2,
+    title:'twitter',
     github: 'https://github.com/WidtherSS/HiFiCorner',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
@@ -71,7 +71,7 @@ const Portfolio = () => {
           <h3>{title}</h3> 
           <div className="portfolio__item-cta">
           <a href={github} className="btn">GitHub</a>
-          <a href={demo} className="btn btn-primary" target="_blank"> Live Demo</a>
+          <a href={demo} className="btn btn-primary" target="_blank" rel = "noreferrer"> Live Demo</a>
           </div>
         </article>
         )

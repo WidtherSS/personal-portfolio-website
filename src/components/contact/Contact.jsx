@@ -26,19 +26,19 @@ const Contact = () => {
             <HiOutlineMail className="contact__option-icon"/>
             <h4>Email</h4>
             <h5>adamchatila2020@gmail.com</h5>
-            <a href="mailto:adamchatila2020@gmail.com" target="_blank">Send a message</a>
+            <a href="mailto:adamchatila2020@gmail.com" target="_blank" rel = "noreferrer" >Send a message</a>
           </article>
           <article className="contact__option">
             <BsMessenger className="contact__option-icon"/>
             <h4>Messanger</h4>
             <h5>Adam Chatila</h5>
-            <a href="https://m.me/adam.chatila.54" target="_blank">Send a message</a>
+            <a href="https://m.me/adam.chatila.54" target="_blank" rel = "noreferrer" >Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon"/>
             <h4>Whatsapp</h4>
             <h5>+4528732176</h5>
-            <a href="https://api.whatsapp.com/send?phone=+4528732176" target="_blank">Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=+4528732176" target="_blank" rel = "noreferrer" >Send a message</a>
           </article>
         </div>
         {/*END OF CONTACT OPTEIONS*/}
