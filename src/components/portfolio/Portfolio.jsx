@@ -40,14 +40,14 @@ const data= [
   {
     id:5,
     image: IMG5,
-    title:'Crybto Currency Dashboard & financial visualization',
+    title:'Moon Css',
     github: 'https://github.com/WidtherSS/HiFiCorner',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id:6,
     image: IMG6,
-    title:'Crybto Currency Dashboard & financial visualization',
+    title:'Moon Css',
     github: 'https://github.com/WidtherSS/The-Moon-',
     demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
   },

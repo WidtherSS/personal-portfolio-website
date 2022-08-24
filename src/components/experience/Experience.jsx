@@ -74,13 +74,6 @@ function experience() {
               <article className="experience__deteils">
                   <BsFillPatchCheckFill className="experience__deteils-icon"/>
                   <div>
-                  <h4>Ghraphic Design</h4>
-                  <small className="text-light">Intermediated</small>
-                  </div>
-              </article>
-              <article className="experience__deteils">
-                  <BsFillPatchCheckFill className="experience__deteils-icon"/>
-                  <div>
                   <h4>Layouts</h4>
                   <small className="text-light">Experienced</small>
                   </div>
@@ -88,14 +81,7 @@ function experience() {
               <article className="experience__deteils">
                   <BsFillPatchCheckFill className="experience__deteils-icon"/>
                   <div>
-                  <h4>Typeography</h4>
-                  <small className="text-light">Experienced</small>
-                  </div>
-              </article>
-              <article className="experience__deteils">
-                  <BsFillPatchCheckFill className="experience__deteils-icon"/>
-                  <div>
-                  <h4>Visuel Design</h4>
+                  <h4>Figma</h4>
                   <small className="text-light">Experienced</small>
                   </div>
               </article>     
