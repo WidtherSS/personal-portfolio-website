@@ -22,7 +22,7 @@ function About() {
             <article className="about__card">
               <FaAward className="about__icon"/>
               <h5>experience</h5>
-              <small>+2 Years of Studying and Projects</small>
+              <small>1.5 Years of Studying</small>
             </article>
 
             <article className="about__card">
@@ -37,7 +37,7 @@ function About() {
               <small>8+ Completed Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. In fugiat possimus dolor alias incidunt at asperiores consectetur! Qui similique voluptatem quo provident, dignissimos, labore vitae, nam illum non eum laborum.</p>
+          <p>I'm a Roskilde Teknisk Skole student for about 1 year, i do coding and projects for fun in my free time and learning new stuff, I'm a Hard worker And always looking forward to learn new things </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

@@ -3,7 +3,7 @@ import './Contact.css'
 import {HiOutlineMail} from 'react-icons/hi'
 import {BsMessenger} from 'react-icons/bs'
 import {BsWhatsapp} from 'react-icons/bs'
-import { useRef } from 'react';
+import {useRef} from 'react';
 import emailjs from 'emailjs-com';
 
 const Contact = () => {
@@ -11,7 +11,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_wl5sl6s', 'template_srim30x', form.current,'8Zk0ZDdoJ3vFgnpWi' )
+    emailjs.sendForm('service_wl5sl6s', 'template_srim30x', form.current,'8Zk0ZDdoJ3vFgnpWi')
     e.target.reset()
   };
 
