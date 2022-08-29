@@ -14,42 +14,42 @@ const data= [
     image: IMG4,
     title:'Youtube HomePage',
     github: 'https://github.com/WidtherSS/Youtube-Project',
-    demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
+    demo:''
   },
   {
     id:2,
     image: IMG1,
     title:'Product Management',
     github: 'https://github.com/WidtherSS/Product-Management',
-    demo:'https://dribbble.com/shots/16580766-origin-UI-kit-charts-templates-infographics-in-Figma'
+    demo:''
   },
   {
     id:3,
     image: IMG3,
     title:'universities',
     github: 'https://github.com/WidtherSS/Universities',
-    demo:'file:///Users/adamchatila/Desktop/cph-uni/index.html'
+    demo:''
   },
   {
     id:4,
     image: IMG2,
     title:'twitter',
     github: 'https://github.com/WidtherSS/HiFiCorner',
-    demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
+    demo:''
   },
   {
     id:5,
     image: IMG5,
     title:'Moon Css',
     github: 'https://github.com/WidtherSS/HiFiCorner',
-    demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
+    demo:''
   },
   {
     id:6,
     image: IMG6,
     title:'Moon Css',
     github: 'https://github.com/WidtherSS/The-Moon-',
-    demo:'https://dribbble.com/shots/16673715-crybto-currency-dashboard-and-financial-data-visualization'
+    demo:''
   },
 
 ]
