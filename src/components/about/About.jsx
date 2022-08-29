@@ -38,7 +38,7 @@ function About() {
             </article>
           </div>
           <p>I'm a Roskilde Teknisk Skole student for about 1 year, i do coding and projects for fun in my free time and learning new stuff, I'm a Hard worker And always looking forward to learn new things </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn-contact btn-primary">Let's Talk</a>
         </div>
       </div>
 
